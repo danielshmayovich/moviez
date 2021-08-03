@@ -1,0 +1,43 @@
+﻿#navbar
+{
+    font-size:22pt;
+}
+
+.navbar-brand
+{
+    position:relative;
+    font-size:22pt;
+    top:10px;
+}
+
+.search-area
+{
+    padding:12px 0 10px 10px;
+}
+
+.search-area > button
+{
+    position:relative;
+    padding:10px;
+    top:2px;
+    font-size:18pt;
+}
+
+.search-results
+{
+    min-height:400px;
+    margin-top:100px;
+}
+
+.search-results > .item > .well
+{
+    text-align:left;
+    min-height:80px;
+}
+
+.search-results > .item > .well > img
+{
+    display:block;
+    height:200px;
+    margin-left:280px;
+}
